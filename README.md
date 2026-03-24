@@ -64,11 +64,18 @@ All SQL queries used for KPI calculations and analysis are available in:
 
 ---
 
-## 📷 Dashboard Preview
 
-(images/dashboard1.png)
-(images/dashboard2.png)
-(images/dashboard3.png)
+
+## 📊 Dashboard Overview
+
+### 🔹 Summary
+![Summary](https://github.com/Aishwaryapithe11/Bank-Loan-Analysis-Dashboard/raw/main/images/dashboard1.png)
+
+### 🔹 Overview
+![Overview](https://github.com/Aishwaryapithe11/Bank-Loan-Analysis-Dashboard/raw/main/dashboard2.png)
+
+### 🔹 Details
+![Details](https://github.com/Aishwaryapithe11/Bank-Loan-Analysis-Dashboard/raw/main/dashboard3.png)
 
 ## 🎯 Business Insights
 

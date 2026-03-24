@@ -69,7 +69,7 @@ All SQL queries used for KPI calculations and analysis are available in:
 ## 📊 Dashboard Overview
 
 ### 🔹 Summary
-![Summary](https://github.com/Aishwaryapithe11/Bank-Loan-Analysis-Dashboard/raw/main/images/dashboard1.png)
+![Summary](https://github.com/Aishwaryapithe11/Bank-Loan-Analysis-Dashboard/raw/main/dashboard1.png)
 
 ### 🔹 Overview
 ![Overview](https://github.com/Aishwaryapithe11/Bank-Loan-Analysis-Dashboard/raw/main/dashboard2.png)

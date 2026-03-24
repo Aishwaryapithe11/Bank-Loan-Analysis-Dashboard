@@ -66,9 +66,9 @@ All SQL queries used for KPI calculations and analysis are available in:
 
 ## 📷 Dashboard Preview
 
-![Sales](images/dashboard1.png)
-![Sales](images/dashboard2.png)
-![Sales](images/dashboard3.png)
+(images/dashboard1.png)
+(images/dashboard2.png)
+(images/dashboard3.png)
 
 ## 🎯 Business Insights
 
